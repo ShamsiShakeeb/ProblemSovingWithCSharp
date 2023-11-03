@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AcmProblemSolving/1.0.0": {
+        "dependencies": {
+          "ACMBasics": "1.0.0",
+          "CrackingTheCodeInterview": "1.0.0",
+          "LeadCode": "1.0.0",
+          "ProjectEular": "1.0.0"
+        },
+        "runtime": {
+          "AcmProblemSolving.dll": {}
+        }
+      },
+      "ACMBasics/1.0.0": {
+        "runtime": {
+          "ACMBasics.dll": {}
+        }
+      },
+      "CrackingTheCodeInterview/1.0.0": {
+        "runtime": {
+          "CrackingTheCodeInterview.dll": {}
+        }
+      },
+      "LeadCode/1.0.0": {
+        "runtime": {
+          "LeadCode.dll": {}
+        }
+      },
+      "ProjectEular/1.0.0": {
+        "runtime": {
+          "ProjectEular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcmProblemSolving/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ACMBasics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrackingTheCodeInterview/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LeadCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectEular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

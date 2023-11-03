@@ -1,0 +1,8 @@
+C:\Users\BS483\source\repos\AcmProblemSolving\DataStructureWithGenerics\bin\Debug\netstandard2.0\DataStructureWithGenerics.deps.json
+C:\Users\BS483\source\repos\AcmProblemSolving\DataStructureWithGenerics\bin\Debug\netstandard2.0\DataStructureWithGenerics.dll
+C:\Users\BS483\source\repos\AcmProblemSolving\DataStructureWithGenerics\bin\Debug\netstandard2.0\DataStructureWithGenerics.pdb
+C:\Users\BS483\source\repos\AcmProblemSolving\DataStructureWithGenerics\obj\Debug\netstandard2.0\DataStructureWithGenerics.AssemblyInfoInputs.cache
+C:\Users\BS483\source\repos\AcmProblemSolving\DataStructureWithGenerics\obj\Debug\netstandard2.0\DataStructureWithGenerics.AssemblyInfo.cs
+C:\Users\BS483\source\repos\AcmProblemSolving\DataStructureWithGenerics\obj\Debug\netstandard2.0\DataStructureWithGenerics.csproj.CoreCompileInputs.cache
+C:\Users\BS483\source\repos\AcmProblemSolving\DataStructureWithGenerics\obj\Debug\netstandard2.0\DataStructureWithGenerics.dll
+C:\Users\BS483\source\repos\AcmProblemSolving\DataStructureWithGenerics\obj\Debug\netstandard2.0\DataStructureWithGenerics.pdb

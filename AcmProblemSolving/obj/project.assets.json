@@ -1,0 +1,161 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ACMBasics/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ACMBasics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ACMBasics.dll": {}
+        }
+      },
+      "CrackingTheCodeInterview/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CrackingTheCodeInterview.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CrackingTheCodeInterview.dll": {}
+        }
+      },
+      "LeadCode/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/LeadCode.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadCode.dll": {}
+        }
+      },
+      "ProjectEular/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ProjectEular.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectEular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACMBasics/1.0.0": {
+      "type": "project",
+      "path": "../ACMBasics/ACMBasics.csproj",
+      "msbuildProject": "../ACMBasics/ACMBasics.csproj"
+    },
+    "CrackingTheCodeInterview/1.0.0": {
+      "type": "project",
+      "path": "../CrackingTheCodeInterview/CrackingTheCodeInterview.csproj",
+      "msbuildProject": "../CrackingTheCodeInterview/CrackingTheCodeInterview.csproj"
+    },
+    "LeadCode/1.0.0": {
+      "type": "project",
+      "path": "../LeadCode/LeadCode.csproj",
+      "msbuildProject": "../LeadCode/LeadCode.csproj"
+    },
+    "ProjectEular/1.0.0": {
+      "type": "project",
+      "path": "../ProjectEular/ProjectEular.csproj",
+      "msbuildProject": "../ProjectEular/ProjectEular.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ACMBasics >= 1.0.0",
+      "CrackingTheCodeInterview >= 1.0.0",
+      "LeadCode >= 1.0.0",
+      "ProjectEular >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\BS483\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\BS483\\source\\repos\\AcmProblemSolving\\AcmProblemSolving\\AcmProblemSolving.csproj",
+      "projectName": "AcmProblemSolving",
+      "projectPath": "C:\\Users\\BS483\\source\\repos\\AcmProblemSolving\\AcmProblemSolving\\AcmProblemSolving.csproj",
+      "packagesPath": "C:\\Users\\BS483\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BS483\\source\\repos\\AcmProblemSolving\\AcmProblemSolving\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\BS483\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\MyNugetPackage": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\BS483\\source\\repos\\AcmProblemSolving\\ACMBasics\\ACMBasics.csproj": {
+              "projectPath": "C:\\Users\\BS483\\source\\repos\\AcmProblemSolving\\ACMBasics\\ACMBasics.csproj"
+            },
+            "C:\\Users\\BS483\\source\\repos\\AcmProblemSolving\\CrackingTheCodeInterview\\CrackingTheCodeInterview.csproj": {
+              "projectPath": "C:\\Users\\BS483\\source\\repos\\AcmProblemSolving\\CrackingTheCodeInterview\\CrackingTheCodeInterview.csproj"
+            },
+            "C:\\Users\\BS483\\source\\repos\\AcmProblemSolving\\LeadCode\\LeadCode.csproj": {
+              "projectPath": "C:\\Users\\BS483\\source\\repos\\AcmProblemSolving\\LeadCode\\LeadCode.csproj"
+            },
+            "C:\\Users\\BS483\\source\\repos\\AcmProblemSolving\\ProjectEular\\ProjectEular.csproj": {
+              "projectPath": "C:\\Users\\BS483\\source\\repos\\AcmProblemSolving\\ProjectEular\\ProjectEular.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.25, 3.1.25]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\BS483\source\repos\AcmProblemSolving\ACMBasics\bin\Debug\netstandard2.0\ACMBasics.deps.json
+C:\Users\BS483\source\repos\AcmProblemSolving\ACMBasics\bin\Debug\netstandard2.0\ACMBasics.dll
+C:\Users\BS483\source\repos\AcmProblemSolving\ACMBasics\bin\Debug\netstandard2.0\ACMBasics.pdb
+C:\Users\BS483\source\repos\AcmProblemSolving\ACMBasics\obj\Debug\netstandard2.0\ACMBasics.AssemblyInfoInputs.cache
+C:\Users\BS483\source\repos\AcmProblemSolving\ACMBasics\obj\Debug\netstandard2.0\ACMBasics.AssemblyInfo.cs
+C:\Users\BS483\source\repos\AcmProblemSolving\ACMBasics\obj\Debug\netstandard2.0\ACMBasics.csproj.CoreCompileInputs.cache
+C:\Users\BS483\source\repos\AcmProblemSolving\ACMBasics\obj\Debug\netstandard2.0\ACMBasics.dll
+C:\Users\BS483\source\repos\AcmProblemSolving\ACMBasics\obj\Debug\netstandard2.0\ACMBasics.pdb

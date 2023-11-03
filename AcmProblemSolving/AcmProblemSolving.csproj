@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ACMBasics\ACMBasics.csproj" />
+    <ProjectReference Include="..\CrackingTheCodeInterview\CrackingTheCodeInterview.csproj" />
+    <ProjectReference Include="..\LeadCode\LeadCode.csproj" />
+    <ProjectReference Include="..\ProjectEular\ProjectEular.csproj" />
+  </ItemGroup>
+
+</Project>

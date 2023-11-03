@@ -1,0 +1,8 @@
+C:\Users\BS483\source\repos\AcmProblemSolving\LeadCode\bin\Debug\netstandard2.0\LeadCode.deps.json
+C:\Users\BS483\source\repos\AcmProblemSolving\LeadCode\bin\Debug\netstandard2.0\LeadCode.dll
+C:\Users\BS483\source\repos\AcmProblemSolving\LeadCode\bin\Debug\netstandard2.0\LeadCode.pdb
+C:\Users\BS483\source\repos\AcmProblemSolving\LeadCode\obj\Debug\netstandard2.0\LeadCode.AssemblyInfoInputs.cache
+C:\Users\BS483\source\repos\AcmProblemSolving\LeadCode\obj\Debug\netstandard2.0\LeadCode.AssemblyInfo.cs
+C:\Users\BS483\source\repos\AcmProblemSolving\LeadCode\obj\Debug\netstandard2.0\LeadCode.csproj.CoreCompileInputs.cache
+C:\Users\BS483\source\repos\AcmProblemSolving\LeadCode\obj\Debug\netstandard2.0\LeadCode.dll
+C:\Users\BS483\source\repos\AcmProblemSolving\LeadCode\obj\Debug\netstandard2.0\LeadCode.pdb

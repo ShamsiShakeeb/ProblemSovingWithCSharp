@@ -1,0 +1,9 @@
+C:\Users\BS483\source\repos\AcmProblemSolving\ProjectEular\bin\Debug\netstandard2.0\ProjectEular.deps.json
+C:\Users\BS483\source\repos\AcmProblemSolving\ProjectEular\bin\Debug\netstandard2.0\ProjectEular.dll
+C:\Users\BS483\source\repos\AcmProblemSolving\ProjectEular\bin\Debug\netstandard2.0\ProjectEular.pdb
+C:\Users\BS483\source\repos\AcmProblemSolving\ProjectEular\obj\Debug\netstandard2.0\ProjectEular.csprojAssemblyReference.cache
+C:\Users\BS483\source\repos\AcmProblemSolving\ProjectEular\obj\Debug\netstandard2.0\ProjectEular.AssemblyInfoInputs.cache
+C:\Users\BS483\source\repos\AcmProblemSolving\ProjectEular\obj\Debug\netstandard2.0\ProjectEular.AssemblyInfo.cs
+C:\Users\BS483\source\repos\AcmProblemSolving\ProjectEular\obj\Debug\netstandard2.0\ProjectEular.csproj.CoreCompileInputs.cache
+C:\Users\BS483\source\repos\AcmProblemSolving\ProjectEular\obj\Debug\netstandard2.0\ProjectEular.dll
+C:\Users\BS483\source\repos\AcmProblemSolving\ProjectEular\obj\Debug\netstandard2.0\ProjectEular.pdb
