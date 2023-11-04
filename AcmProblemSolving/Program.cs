@@ -11,11 +11,22 @@ namespace AcmProblemSolving
 {
     public class Program
     {
+        
+
         public static void Main(string[] args)
         {
-            Resilience r = new Resilience();
-            Console.WriteLine(r.projectEular243(15499, 94744));
+            var watch = System.Diagnostics.Stopwatch.StartNew();
+
+
+            ///Do Code
+
+            watch.Stop();
+            var elapsedMs = watch.ElapsedMilliseconds;
+            Console.WriteLine("Time: "+elapsedMs +" ms");
+
         }
 
     }
 }
+
+
