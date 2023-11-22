@@ -9,7 +9,7 @@ namespace LeadCode.Medium
         #region UniquePath Recursive
 
         static int[,] memo;
-        public static int UniquePathsR(int m, int n)
+        public int UniquePathsR(int m, int n)
         {
             memo = new int[m, n];
             return Path(0, 0, m, n);
