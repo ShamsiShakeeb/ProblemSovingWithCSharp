@@ -6,3 +6,4 @@ C:\Users\BS483\source\repos\AcmProblemSolving\ACMBasics\obj\Debug\netstandard2.0
 C:\Users\BS483\source\repos\AcmProblemSolving\ACMBasics\obj\Debug\netstandard2.0\ACMBasics.csproj.CoreCompileInputs.cache
 C:\Users\BS483\source\repos\AcmProblemSolving\ACMBasics\obj\Debug\netstandard2.0\ACMBasics.dll
 C:\Users\BS483\source\repos\AcmProblemSolving\ACMBasics\obj\Debug\netstandard2.0\ACMBasics.pdb
+C:\Users\BS483\source\repos\AcmProblemSolving\ACMBasics\obj\Debug\netstandard2.0\ACMBasics.csprojAssemblyReference.cache
